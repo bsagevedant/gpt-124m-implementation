@@ -1,6 +1,8 @@
 # GPT-124M Model Implementation (PyTorch)
 
 This repository contains a PyTorch implementation of the GPT-124M model, following the architecture described in the original GPT paper.
+![image](https://github.com/user-attachments/assets/ace7abb7-f64c-41ce-96a6-4de4ffa2d55c)
+
 
 ## Features
 
